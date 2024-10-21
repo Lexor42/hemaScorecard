@@ -1,11 +1,7 @@
---
--- Default admin user
---
-
 INSERT INTO systemUsers(
             userName, 
-            userEmail, 
-            EVENT_YOUTUBE, 
+            userEmail,
+            EVENT_VIDEO,
             EVENT_SCOREKEEP, 
             EVENT_MANAGEMENT, 
             SOFTWARE_EVENT_SWITCHING, 
